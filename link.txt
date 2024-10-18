@@ -1,1 +1,1 @@
-https://github.com/nabingaire/flask_app
+https://github.com/nabingaire/flask_app2
